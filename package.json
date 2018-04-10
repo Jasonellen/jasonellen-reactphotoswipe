@@ -1,6 +1,6 @@
 {
   "name": "jasonellen-reactphotoswipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base on photoswipe and react-photoswipe",
   "main": "dist/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "photoswipe": "^4.1.2",
-     "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
