@@ -12,7 +12,7 @@
     "photoswipe",
     "swipe"
   ],
-  "repository":"",
+  "repository":"https://github.com/Jasonellen/jasonellen-reactphotoswipe.git",
   "author": "jasonellen",
   "license": "ISC",
   "dependencies": {
