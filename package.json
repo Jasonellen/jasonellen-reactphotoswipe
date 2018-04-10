@@ -1,6 +1,6 @@
 {
   "name": "jasonellen-reactphotoswipe",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "base on photoswipe and react-photoswipe",
   "main": "lib/index.js",
   "scripts": {
