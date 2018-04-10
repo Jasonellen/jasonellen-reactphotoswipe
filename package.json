@@ -1,0 +1,21 @@
+{
+  "name": "jasonellen/reactphotoswipe",
+  "version": "1.0.0",
+  "description": "base on photoswipe and react-photoswipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "photo",
+    "photoswipe",
+    "swipe"
+  ],
+  "repository":"",
+  "author": "jasonellen",
+  "license": "ISC",
+  "dependencies": {
+    "photoswipe": "^4.1.2"
+  }
+}
