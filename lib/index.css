@@ -1,0 +1,12 @@
+.pswp__button{
+	transform: scale(2.2);
+  margin: 20px !important;
+}
+.pswp__counter{
+	font-size: 30px !important;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.pswp__top-bar{
+	height: auto !important;
+}
