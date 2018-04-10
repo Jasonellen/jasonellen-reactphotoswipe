@@ -2,7 +2,7 @@
   "name": "jasonellen-reactphotoswipe",
   "version": "1.0.3",
   "description": "base on photoswipe and react-photoswipe",
-  "main": "dist/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rm -rf lib && mkdir lib && babel src --out-dir lib"
